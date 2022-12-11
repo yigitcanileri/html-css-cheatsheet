@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.top{
+    text-align: center;
+    background-color: blanchedalmond;
+    justify-content: center;
+}
+
+table{
+    box-sizing: border-box;
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    border: 1px solid darkorchid;
+}
